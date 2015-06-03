@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Kostiantyns-MacBook-Air-2.local" name="com.pyxis.demo.es.GeoNamesIndexDAOTest" tests="4" failures="0" timestamp="9 Mar 2015 18:03:50 GMT" time="11.048" errors="0">
+  <testcase name="testFuzzySearch" time="0.23" classname="com.pyxis.demo.es.GeoNamesIndexDAOTest"/>
+  <testcase name="testSimpleSearch" time="0.025" classname="com.pyxis.demo.es.GeoNamesIndexDAOTest"/>
+  <testcase name="testSuggestionSearch" time="0.026" classname="com.pyxis.demo.es.GeoNamesIndexDAOTest"/>
+  <testcase name="testmultipleEqualSearch" time="0.017" classname="com.pyxis.demo.es.GeoNamesIndexDAOTest"/>
+</testsuite>

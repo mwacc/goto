@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.pyxis.demo.es.GeoNamesIndexDAOTest" duration-ms="11048" started-at="2015-03-09T20:03:39Z" finished-at="2015-03-09T20:03:50Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11048" started-at="2015-03-09T20:03:39Z" finished-at="2015-03-09T20:03:50Z">
+      <class name="com.pyxis.demo.es.GeoNamesIndexDAOTest">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10689" started-at="2015-03-09T20:03:39Z" finished-at="2015-03-09T20:03:50Z">
+        </test-method>
+        <test-method status="PASS" signature="testFuzzySearch()" name="testFuzzySearch" duration-ms="230" started-at="2015-03-09T20:03:50Z" finished-at="2015-03-09T20:03:50Z">
+        </test-method>
+        <test-method status="PASS" signature="testSimpleSearch()" name="testSimpleSearch" duration-ms="25" started-at="2015-03-09T20:03:50Z" finished-at="2015-03-09T20:03:50Z">
+        </test-method>
+        <test-method status="PASS" signature="testSuggestionSearch()" name="testSuggestionSearch" duration-ms="26" started-at="2015-03-09T20:03:50Z" finished-at="2015-03-09T20:03:50Z">
+        </test-method>
+        <test-method status="PASS" signature="testmultipleEqualSearch()" name="testmultipleEqualSearch" duration-ms="17" started-at="2015-03-09T20:03:50Z" finished-at="2015-03-09T20:03:50Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="42" started-at="2015-03-09T20:03:50Z" finished-at="2015-03-09T20:03:50Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

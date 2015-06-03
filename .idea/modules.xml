@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-master/crawler-master.iml" filepath="$PROJECT_DIR$/crawler-master/crawler-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler-slave/crawler-slave.iml" filepath="$PROJECT_DIR$/crawler-slave/crawler-slave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es-gateway/es-gateway.iml" filepath="$PROJECT_DIR$/es-gateway/es-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goto.iml" filepath="$PROJECT_DIR$/goto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goto-web-ui/goto-web-ui.iml" filepath="$PROJECT_DIR$/goto-web-ui/goto-web-ui.iml" />
+    </modules>
+  </component>
+</project>
+
