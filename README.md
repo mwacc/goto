@@ -6,7 +6,7 @@ The project aims to show ElasticSearch's power for search and particularly geo-r
 The project contains several modules:
 * _goto-web-ui_ is the main component that provides interface and search logic
 * _es-gateway_ keeps auxiliary classes for dealing with geo data
-* _crawler-*_ is horizontaly scalable crawler to collect data from external services; used only to collect data
+* _crawler-*_ is horizontaly scalable crawler to collect data from external services; internally it uses distributed Hazelcast collections to sync multiple tasks; used only to collect data
 * _common_ shared models
 
 (c) 2015
